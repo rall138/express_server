@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Son Goku",
+    "price": 150,
+    "thumbnail": "http://img.png"
+  },
+  {
+    "id": 2,
+    "title": "Krillin",
+    "price": 200,
+    "thumbnail": "http://img.png"
+  },
+  {
+    "id": 3,
+    "title": "Yamcha",
+    "price": 70,
+    "thumbnail": "http://img.png"
+  },
+  {
+    "id": 4,
+    "title": "Son Goku",
+    "price": 150,
+    "thumbnail": "http://img.png"
+  },
+  {
+    "id": 5,
+    "title": "Krillin",
+    "price": 200,
+    "thumbnail": "http://img.png"
+  },
+  {
+    "id": 6,
+    "title": "Yamcha",
+    "price": 70,
+    "thumbnail": "http://img.png"
+  },
+  {
+    "id": 7,
+    "title": "Son Goku",
+    "price": 150,
+    "thumbnail": "http://img.png"
+  },
+  {
+    "id": 8,
+    "title": "Krillin",
+    "price": 200,
+    "thumbnail": "http://img.png"
+  },
+  {
+    "id": 9,
+    "title": "Yamcha",
+    "price": 70,
+    "thumbnail": "http://img.png"
+  }
+]
